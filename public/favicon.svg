@@ -1,0 +1,58 @@
+<svg viewBox="0 0 300 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4d8de" />
+      <stop offset="50%" stop-color="#b8bec6" />
+      <stop offset="100%" stop-color="#8a919b" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(150,155)">
+    <path
+      d="M0,-130 L115,-75 L115,25 Q115,105 0,140 Q-115,105 -115,25 L-115,-75 Z"
+      fill="none"
+      stroke="url(#silverGrad)"
+      stroke-width="4"
+    />
+    <path
+      d="M0,-118 L103,-67 L103,20 Q103,95 0,127 Q-103,95 -103,20 L-103,-67 Z"
+      fill="#0f1318"
+      stroke="url(#silverGrad)"
+      stroke-width="1.5"
+    />
+    <path
+      d="M-28,-90 L-14,-108 L0,-90 L14,-108 L28,-90"
+      fill="none"
+      stroke="url(#silverGrad)"
+      stroke-width="2.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <circle cx="-14" cy="-108" r="2.5" fill="#b8bec6" />
+    <circle cx="14" cy="-108" r="2.5" fill="#b8bec6" />
+    <text
+      x="0"
+      y="28"
+      text-anchor="middle"
+      font-family="serif"
+      font-size="80"
+      font-weight="700"
+      fill="url(#silverGrad)"
+      letter-spacing="8"
+    >
+      JMT
+    </text>
+    <text
+      x="0"
+      y="72"
+      text-anchor="middle"
+      font-family="sans-serif"
+      font-size="10"
+      fill="#b8bec6"
+      letter-spacing="6"
+      font-weight="600"
+      opacity="0.75"
+    >
+      TRADERS
+    </text>
+  </g>
+</svg>

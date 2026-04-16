@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "JMT (Jeen Mata Traders) - Import & export of premium corporate gifting products including bags, calendars, wall hangings, fridge magnets & more. Est. 2022.",
   keywords: ["JMT", "Jeen Mata Traders", "corporate gifting", "promotional products", "bags", "calendars", "fridge magnets"],
   icons: {
-    icon: "/logo.svg",
+    icon: "/favicon.svg",
   },
 };
 
